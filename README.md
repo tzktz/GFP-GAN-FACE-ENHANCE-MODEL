@@ -2,7 +2,7 @@
 
 Steps to follow...
 
-1.You need to install detctron2 first
+1.You need to install gfpgan first
 
 2.Run the cmd  `pip install -r requirements.txt`
 
