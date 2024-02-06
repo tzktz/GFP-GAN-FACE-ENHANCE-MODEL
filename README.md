@@ -1,6 +1,6 @@
 # GFP-GAN-FACE-ENHANCE-MODEL
 
-Steps to follow...
+###  Steps to follow...
 
 1.You need to install gfpgan first
 
